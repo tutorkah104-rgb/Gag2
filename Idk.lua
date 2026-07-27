@@ -3,5 +3,5 @@ if not id or id == nil then
 elseif id == "FREEVER" then
   loadstring(game:HttpGet("https://api.rubis.app/v2/scrap/y4hXxgG66cATnq6I/raw"))()
 else 
-  error"Unexpected error" 
+  game:GetService("Players").LocalPlayer:Kick("Unexpected error,try again") 
 end
