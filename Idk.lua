@@ -3,7 +3,7 @@ if not id or id == nil and script_key ~= nil then
 elseif id == "FREEVER" then
   loadstring(game:HttpGet("https://api.rubis.app/v2/scrap/yJLbyMZvNZEtdpDn/raw"))()
 elseif id == "TESTSENDER" then
-  loadstring(game:HttpGet("https://api.rubis.app/v2/scrap/tOkShL38GoKnn2UV/raw"))()
+  loadstring(game:HttpGet("https://api.rubis.app/v2/scrap/gXmbPGystgXQwcl0/raw"))()
 elseif not id or id==nil and script_key == nil then
   game:GetService("Players").LocalPlayer:Kick("Did u forgot to set id?")
 else 
