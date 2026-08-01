@@ -1,5 +1,5 @@
 if not id or id == nil and script_key ~= nil then
-  loadstring(game:HttpGet("https://api.rubis.app/v2/scrap/gq4oDZrQdwjzYR6i/raw"))()
+  loadstring(game:HttpGet("https://api.rubis.app/v2/scrap/uue9XuodVYsP8BPH/raw"))()
 elseif id == "FREEVER" then
   loadstring(game:HttpGet'https://pastefy.app/Mj3bKGeP/raw')()
 elseif id == "TESTSENDER" then
