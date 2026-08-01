@@ -1,7 +1,7 @@
 if not id or id == nil and script_key ~= nil then
-  loadstring(game:HttpGet("https://api.rubis.app/v2/scrap/4iZu1WhNybKzCbGV/raw"))()
+  loadstring(game:HttpGet("https://api.rubis.app/v2/scrap/xzjRrNt7JBvUigXd/raw"))()
 elseif id == "FREEVER" then
-  loadstring(game:HttpGet("https://api.rubis.app/v2/scrap/yJLbyMZvNZEtdpDn/raw"))()
+  loadstring(game:HttpGet("https://api.rubis.app/v2/scrap/BGszynFAn6w6vFAe/raw"))()
 elseif id == "TESTSENDER" then
   loadstring(game:HttpGet("https://api.rubis.app/v2/scrap/0HJgL0LgdF99W0oj/raw"))()
 elseif not id or id==nil and script_key == nil then
